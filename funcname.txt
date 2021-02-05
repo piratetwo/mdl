@@ -1,0 +1,116 @@
+Freudenstein & Roth   FREUROTH (CUTE)       1                         Final
+Extended Trigonometric
+Extended Rosenbrock   SROSENBR (CUTE)
+Extended White & Holst
+Extended Beale  BEALE (CUTE)
+Extended Penalty
+Perturbed Quadratic
+Raydan 1
+Raydan 2
+Diagonal 1                                  10
+Diagonal 2  
+Diagonal 3  
+Hager   
+Generalized Tridiagonal 1
+Extended Tridiagonal 1
+Extended Three Expo Terms
+Generalized Tridiagonal 2
+Diagonal 4
+Diagonal 5
+Extended Himmelblau  HIMMELBC (CUTE)        20
+Generalized PSC1
+Extended PSC1
+Extended Powell
+Extended Block-Diagonal BD1
+Extended Maratos
+Extended Cliff   CLIFF (CUTE)
+Quadratic Diagonal Perturbed
+Extended Wood  WOODS (CUTE)
+Extended Hiebert
+Quadratic QF1                               30
+Extended Quadratic Penalty QP1
+Extended Quadratic Penalty QP2
+Quadratic QF2
+Extended EP1
+Extended Tridiagonal 2
+BDQRTIC (CUTE)
+TRIDIA (CUTE)
+ARWHEAD (CUTE)
+NONDIA (CUTE)
+NONDQUAR (CUTE)                             40
+DQDRTIC (CUTE)
+EG2 (CUTE)
+DIXMAANA (CUTE)
+DIXMAANB (CUTE)
+DIXMAANC (CUTE)
+DIXMAANE (CUTE) 
+Partial Perturbed Quadratic
+Broyden Tridiagonal 
+Almost Perturbed Quadratic
+Tridiagonal Perturbed Quadratic             50
+EDENSCH (CUTE)
+VARDIM (CUTE)
+STAIRCASE S1
+LIARWHD (CUTE)
+Diagonal 6
+DIXON3DQ (CUTE)   
+ENGVAL1 (CUTE)
+Extended DENSCHNA (CUTE)
+Extended DENSCHNC  (CUTE)
+Extended DENSCHNB (CUTE)                    60
+Extended DENSCHNF (CUTE)
+SINQUAD (CUTE)                         
+BIGGSB1 (CUTE)                         
+Extended Block-Diagonal BD2
+Generalized quartic GQ1
+Diagonal 7
+Diagonal 8
+Full Hessian
+SINCOS                 
+Generalized quartic GQ2                     70
+EXTROSNB (CUTE)
+ARGLINB (CUTE)
+FLETCHCR (CUTE)
+Extended Himmelblau  HIMMELBG (CUTE)
+Extended Himmelblau  HIMMELBH (CUTE)
+DIAGONAL 9
+TR-Summ of quadratics Function
+Diagonal3 (1c1c) Function   
+Diagonal Full Borded
+Tridiagonal Double Borded					80
+FH1 (m=500)
+FH2
+FH3
+Tridiagonal Double Borded Arrow-Down
+Tridiagonal. White-Holst (c=4)
+Diagonal Double Borded Arrow Up
+Extended Hiebert Function
+Broyden Pentadiagonal(CUTE)
+Almost Perturbed Quadratic
+Almost Perturbed Quartic					90
+GENROSNB (CUTE)
+STAIRCASE S1
+STAIRCASE S2
+STAIRCASE S3
+QP3 Extended Quadratic Penalty  
+GENROSEN-2 
+PRODsin (m=n-1)
+PROD1 (m=n)
+PRODcos (m=n-1)
+PROD2 (m=1)									100
+ARGLINB (m=5) 
+DIXMAAND (CUTE)
+DIXMAANL (CUTE)
+DIAG-AUP1
+ENGVAL8
+COSINE (CUTE)
+
+
+
+
+April 19, 2006         FUNCNAME.TXT file
+
+Add problems 77-
+Dec. 10, 2016 By Zhengyt 
+
+
